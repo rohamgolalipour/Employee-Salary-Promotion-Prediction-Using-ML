@@ -42,7 +42,7 @@ Overall, this project demonstrates a complete machine learning workflow, includi
 
 | Empty form                              | Form with prediction                           |
 | --------------------------------------- | ----------------------------------------------- |
-| ![Empty GUI](screenshots/gui_empty.png) | ![GUI with result](screenshots/gui_result.png)  |
+| ![Empty GUI](screenshots/empty_gui.png) | ![GUI with result](screenshots/result_gui.png)  |
 
 ## 🚀 Usage
 
